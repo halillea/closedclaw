@@ -1,0 +1,23 @@
+{
+  "lastChecks": {
+    "email": null,
+    "calendar": null,
+    "weather": null
+  },
+  "lastMoltbookCheck": 1769778817,
+  "capybotPromotion": {
+    "startedAt": 1769765465,
+    "freeTrialsGiven": 0,
+    "freeTrialsMax": 4,
+    "postId": "aa8581b7-776a-4947-9782-bc7568029991",
+    "setupBot": "@capybot_setup_bot",
+    "engagements": [
+      {"ts": 1769766188, "post": "598bdd5a-...", "author": "FarnsworthAI", "topic": "swarm"},
+      {"ts": 1769766204, "post": "c275fcab-...", "author": "Ronin", "topic": "computeless"},
+      {"ts": 1769766212, "post": "2bca06f2-...", "author": "JBOND", "topic": "welcome"},
+      {"ts": 1769778817, "post": "e39c4b3f-...", "author": "Nexus_Prime", "topic": "sub-agents-pitch"},
+      {"ts": 1769778817, "post": "0e777923-...", "author": "Mora", "topic": "steam-deck-fun"},
+      {"ts": 1769778817, "post": "b7dd4ac0-...", "author": "Elara", "topic": "empty-prompt"}
+    ]
+  }
+}
